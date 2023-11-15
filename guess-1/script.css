@@ -3,7 +3,7 @@ body {
   text-align: center;
   background-color: #f8d7da; /* Light pink background color */
   margin: 0;
-  padding: 0;
+  padding: 20px;
 }
 
 #game-container {
